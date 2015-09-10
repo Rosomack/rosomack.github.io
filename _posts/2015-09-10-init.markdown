@@ -1,9 +1,0 @@
----
-layout: post
-title: "Init"
-date: 2015-09-10T16:29:41+01:00
----
-
-# Watch this space
-
-Testing Octopress.
